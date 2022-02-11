@@ -1,7 +1,7 @@
 var object = document.getElementById("object");
 var button = document.getElementById("button");
-var red = document.getElementById("red");
 var green = document.getElementById("green");
+var red = document.getElementById("red");
 var yellow = document.getElementById("yellow");
 
 function changecolor(color) {
