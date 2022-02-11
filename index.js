@@ -1,4 +1,4 @@
-var text_box = document.getElementById("object");
+var object = document.getElementById("object");
 var button = document.getElementById("button");
 var red = document.getElementById("red");
 var green = document.getElementById("green");
